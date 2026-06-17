@@ -6,35 +6,49 @@ The Hotel Management System is a Java-based console application that allows user
 This project was developed to improve Java programming skills and understand concepts such as loops, conditional statements, methods, and user input handling.
 
 🚀 Features
-Display multiple hotel menus
-Food ordering system
-Bill calculation
-Customer interaction through console
-Menu-driven application
-Exit option for users
+
+1.Display multiple hotel menus
+
+2.Food ordering system
+
+3.Bill calculation
+
+4.Customer interaction through console
+
+5.Menu-driven application
+
+6.Exit option for users
 
 🛠️ Technologies Used
-Java
-OOP Concepts
-Scanner Class
-Collections (if used)
-VS Code / Eclipse
+
+1.Java
+
+2.OOP Concepts
+
+3.Scanner Class
+
+4.Collections (if used)
+
+5.VS Code / Eclipse
 
 📂 Project Structure
+
 HotelManagement/
 │
 ├── Hotel.java
 ├── Menu.java
 ├── Order.java
 └── README.md
+
 ▶️ How to Run
 
-Clone the repository:
-git clone https://github.com/your-username/hotel-management-system.git
+
 Navigate to the project folder:
 cd hotel-management-system
+
 Compile the program:
 javac Hotel.java
+
 Run the program:
 java Hotel
 
@@ -46,12 +60,18 @@ java Hotel
 3. Exit
 
 Enter your choice:
-🎯 Learning Outcomes
-Java Fundamentals
-Object-Oriented Programming
-User Input Handling
-Console-Based Application Development
-Problem Solving Skills
+🎯 Learning Outcomes:
+
+1.Java Fundamentals
+
+2.Object-Oriented Programming
+
+3.User Input Handling
+
+4.Console-Based Application Development
+
+5.Problem Solving Skills
+
 👨‍💻 Author
 
 Hariharasudhan M
@@ -59,8 +79,13 @@ Hariharasudhan M
 GitHub: hariharasudhan0119
 
 ⭐ Future Enhancements
-GUI using Java Swing
-Database Integration (MySQL)
-Online Payment Feature
-Customer Login System
-Order History Management
+
+1.GUI using Java Swing
+
+2.Database Integration (MySQL)
+
+3.Online Payment Feature
+
+4.Customer Login System
+
+5.Order History Management
